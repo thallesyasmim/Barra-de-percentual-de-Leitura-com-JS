@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Code/Drops Rocketseat</h1>
+  <h1 align="center">Code/Drops | Rocketseat</h1>
  </p>
  
  <h4 align="center">
